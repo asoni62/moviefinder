@@ -1,0 +1,39 @@
+body{
+    background-color:#f9f9f9 !important; 
+}
+
+.appHeader{
+    background: #2d2d2d;
+    color: #ffffff;
+    padding: 15px 0px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.appFooter{
+    color: #2d2d2d;
+    padding: 15px 0px;
+    text-align: right;
+}
+
+.SearchComponent{
+    height: 85px;
+}
+
+.MovieComponent{
+    margin: 20px 0px;
+}
+
+.MovieDetails{
+    margin: 20px 0px;
+    background-color: white;
+}
+.SearchImg{
+    max-height: 250px;
+}
+
+.errorMsg{
+    color: red;
+    font-size: 12px;
+}
